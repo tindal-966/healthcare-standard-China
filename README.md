@@ -6,6 +6,22 @@ looking for contributor
 
 请添加我的微信
 
+## 标准有关资源目录
+- 官方
+    - [中华人民共和国国家卫生健康委员会-政务公开站点-卫生标准](http://www.nhc.gov.cn/wjw/wsbzxx/wsbz.shtml) **推荐**（入口来源：[官网首页](http://www.nhc.gov.cn/wjw/index.shtml) > 服务 > 查信息 > 卫生标准查询）
+    - [行业标准信息服务平台](https://hbba.sacinfo.org.cn/stdList) 大部分可在线查看（图片形式），另可查看标准状态
+    - [全国标准信息公共服务平台](https://std.samr.gov.cn/)  上面的网页的父页
+    - [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/) **推荐** 大部分可在线阅读和下载，PDF
+    - [国家医保信息业务编码标准数据库动态维护](https://code.nhsa.gov.cn/) 页面 "数据查询" 可以动态查询一些；另：[医保](https://code.nhsa.gov.cn/search.html?sysflag=80)
+- 第三方
+    - [标准库](http://www.bzko.com/) **推荐**。可以下载国标，有同时下载数量限制
+    - [学兔兔](http://www.bzfxw.com/) 需要注册，没有注册
+- 奇技淫巧（建议上面 **推荐** 都没有的情况下再使用）
+    
+    利用其他转发带上的资源下载地址；以及 `site` 搜索的技巧
+    - [国家中医药管理局-政策文件](http://www.satcm.gov.cn/bangongshi/zhengcewenjian/index.html) 多数为转发，比较老的资源会 404
+    - [郑州外资企业服务中心-国家标准及行业标准](https://www.waizi.org.cn/bz/) 使用例子：`GB/T 3304-1991 site:https://www.waizi.org.cn`
+    - 安徽省卫生健康信息标准网 `220点178点116点67冒号5567正斜线Index.aspx`（将点、冒号、正斜线替换为对应的符号即可） 
 
 ## 概述
 
