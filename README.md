@@ -1,10 +1,5 @@
-healthcaredatastandard
+Healthcare Data Standard in China
 ======================
-
-
-looking for contributor 
-
-请添加我的微信
 
 ## 标准有关资源目录
 - 官方
